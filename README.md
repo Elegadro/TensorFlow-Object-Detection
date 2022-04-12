@@ -14,7 +14,3 @@
 
 4. Eğitilen resimler rgb (veya bgr) modunda olması durumunda `forbgrimg.py` dosyasını çalıştırın.
     4.1. Dosya içerisinde resminizin dizinini belirtmeyi unutmayın!
-
-# EKLER
-
-- Hazırlanan data (b, g*0, r*0) şeklinde olursa `stream.py` daha iyi çalışacaktır. Tek katmanlı resimleri şu an algılamıyor.
